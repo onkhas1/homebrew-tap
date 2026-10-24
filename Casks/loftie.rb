@@ -1,6 +1,6 @@
 cask "loftie" do
-  version "1.0"
-  sha256 "7fb28f900defaf46e106a2e20444756fdcb9ecf3121cc5f94ab92a38b8cc844a"
+  version "1.0.1"
+  sha256 "6dd61322d21e2a8ed297c628b092b572544691e3bc4f1a4a26f414d737905004"
 
   url "https://github.com/onkhas1/loftie/releases/download/v#{version}/Loftie-#{version}.zip"
   name "Loftie"
